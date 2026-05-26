@@ -40,6 +40,7 @@ members = [
     "vulnerable/fee_on_transfer",
     "vulnerable/instant_oracle",
     "vulnerable/stale_oracle",
+    "vulnerable/future_oracle_timestamp",
     "vulnerable/unprotected_admin",
     "vulnerable/unprotected_upgrade",
     "vulnerable/unprotected_burn",
