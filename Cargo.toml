@@ -21,6 +21,7 @@ members = [
     "vulnerable/missing_escrow_auth",
     "vulnerable/missing_events",
     "vulnerable/missing_ttl",
+    "vulnerable/merkle_leaf_missing_amount",
     "vulnerable/negative_transfer",
     "vulnerable/near_overflow_input",
     "vulnerable/no_slippage",
